@@ -11,7 +11,7 @@
   "badge_colour": "373ceb",
   "version": "0.0.0",
    "dependencies": [
-
+"Cryptlib"
 	]
 
 }
