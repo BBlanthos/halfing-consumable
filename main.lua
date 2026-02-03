@@ -1,4 +1,4 @@
-SMODS.Consumable
+SMODS.Consumable{
 	set = "Tarot",
 	key = "halfing",
 	loc_txt = {
