@@ -1,0 +1,17 @@
+{
+  "id": "halfer",
+	"name": "halfing consumable",
+  "prefix": "half",
+  "author": [
+    "Blanthos",
+   
+  ],
+  "description": "hopefully doesnt crash",
+  "main_file": "main.lua",
+  "badge_colour": "373ceb",
+  "version": "0.0.0",
+   "dependencies": [
+
+	]
+
+}
